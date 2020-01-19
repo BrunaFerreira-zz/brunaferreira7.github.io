@@ -1,18 +1,18 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Projetos Pessoais"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Cursos"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "Leituras"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "Viagens"
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Livros"
     url: /year-archive/
     
   - title: "CV"
