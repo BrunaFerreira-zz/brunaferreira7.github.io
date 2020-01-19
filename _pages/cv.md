@@ -25,8 +25,7 @@ Area: Ciência da Computação <br/>
 Entidade: Universidade Presbiteriana Mackenzie - SP<br/>
 Condição: Bolsista Prouni <br/>
 Periodo: 08/2014 a 06/2018 <br/>
-Trabalho de Conclusão de curso (TCC) : Previsão de Feridos em Acidentes de Trânsito utilizando Técnicas de Machine Learning. <br/>
-Apresentação oral da pesquisa realizada no Trabalho de Conclusão de curso (TCC), no 26º Congresso Mundial de Medicina do Tráfego (ITMA).
+Trabalho de Conclusão de curso (TCC) : Previsão de Feridos em Acidentes de Trânsito utilizando Técnicas de Machine Learning. Apresentado no 26º Congresso Mundial de Medicina do Tráfego (ITMA) em Curitiba - PR (11/2018).
 
 
 * <b>Ensino Médio</b> <br/>
