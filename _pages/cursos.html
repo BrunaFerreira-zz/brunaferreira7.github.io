@@ -1,0 +1,17 @@
+---
+layout: archive
+title: "Cursos"
+permalink: /cursos/
+author_profile: true
+---
+
+<p>Curso 1 : </p>
+
+{% if site.talkmap_link == true %}
+
+
+{% endif %}
+
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
